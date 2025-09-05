@@ -47,10 +47,8 @@ boomer/
 
 1. Clone este repositório:
 
-   ```bash
    git clone https://github.com/vitor-souza-ime/boomer.git
    cd boomer
-````
 
 2. Abra o **Webots** e carregue o mundo que contenha o trator **Boomer**.
    (Certifique-se de que o controlador esteja configurado para usar `main.c`).
